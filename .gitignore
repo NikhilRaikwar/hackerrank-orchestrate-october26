@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+/tmp/
+/code.zip
+/agent-trace/
+/agent-trace.zip
+/output.csv
+/log.txt
