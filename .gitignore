@@ -12,3 +12,5 @@ __pycache__/
 /agent-trace.zip
 /output.csv
 /log.txt
+/.audit_cache/
+/*.diagnostics.json
